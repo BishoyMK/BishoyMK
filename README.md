@@ -5,9 +5,7 @@
 <img src="assets/logo.png" width="120" alt="Bishoy Mamdouh logo" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=760&height=50&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP;LLMs+%C2%B7+RAG+%C2%B7+Computer+Vision;Building+Practical+AI+Solutions" alt="Typing" />
-<br/>
 
-<br/>
 
 <a href="https://bishomamdouh.vercel.app"><img src="assets/logo.png" height="36" alt="Bishoy Mamdouh" /></a>
 <a href="https://bishomamdouh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge" alt="Portfolio" /></a>
