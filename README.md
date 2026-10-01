@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.png" width="120" alt="Bishoy Mamdouh logo" />
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1e3a8a,100:38bdf8&height=180&section=header&text=Bishoy%20Mamdouh&fontSize=54&fontColor=f8fafc&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20%C2%B7%20Model%20Quality&descSize=18&descAlignY=62&descColor=93c5fd&animation=fadeIn" alt="Bishoy Mamdouh" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=760&height=50&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP;LLMs+%C2%B7+RAG+%C2%B7+Computer+Vision;Building+Practical+AI+Solutions" alt="Typing" />
@@ -12,6 +8,8 @@
 <img src="https://komarev.com/ghpvc/?username=BishoyMK&label=Profile%20views&color=1d4ed8&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/BishoyMK?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
 <img src="https://img.shields.io/badge/Open%20to-AI%20evaluation%20work-1e3a8a?style=flat-square" alt="Open to work" />
+<br/>
+<img src="assets/logo.png" width="120" alt="Bishoy Mamdouh logo" />
 
 <br/><br/>
 
