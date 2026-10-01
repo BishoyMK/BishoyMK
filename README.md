@@ -142,7 +142,6 @@ I build and check machine learning systems: language models, computer vision, an
 
 ### Contribution snake
 
-The grid below is generated every day by [this workflow](https://github.com/BishoyMK/BishoyMK/actions/workflows/snake.yml).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BishoyMK/BishoyMK/output/github-contribution-grid-snake-dark.svg" />
