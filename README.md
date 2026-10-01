@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=760&height=50&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP;LLMs+%C2%B7+RAG+%C2%B7+Computer+Vision;Building+Practical+AI+Solutions" alt="Typing" />
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=BishoyMK&label=Profile%20views&color=1d4ed8&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/BishoyMK?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
-<img src="https://img.shields.io/badge/Open%20to-AI%20evaluation%20work-1e3a8a?style=flat-square" alt="Open to work" />
-<br/>
 <img src="assets/logo.png" width="120" alt="Bishoy Mamdouh logo" />
 
 <br/><br/>
