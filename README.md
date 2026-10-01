@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1e3a8a,100:38bdf8&height=210&section=header&text=Bishoy%20Mamdouh&fontSize=54&fontColor=f8fafc&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Data%20%C2%B7%20Model%20Quality&descSize=18&descAlignY=56&descColor=93c5fd&animation=fadeIn" alt="Bishoy Mamdouh" />
+<img src="assets/logo.png" width="120" alt="Bishoy Mamdouh logo" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1e3a8a,100:38bdf8&height=180&section=header&text=Bishoy%20Mamdouh&fontSize=54&fontColor=f8fafc&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20%C2%B7%20Model%20Quality&descSize=18&descAlignY=62&descColor=93c5fd&animation=fadeIn" alt="Bishoy Mamdouh" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=760&height=50&lines=Evaluating+models+before+they+ship;LLMs+%C2%B7+RAG+%C2%B7+Computer+Vision;Alexandria+%E2%86%92+remote+AI+work" alt="Typing" />
 
@@ -47,7 +51,7 @@ I build and check machine learning systems: language models, computer vision, an
 </td>
 <td width="42%" valign="middle" align="center">
 
-<img src="assets/ai-dashboard.svg" width="100%" alt="AI engineer dashboard: model evaluation, Alexandria, LLMs, computer vision, data science, and AI quality." />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Animated neural network: signals moving through an AI model." />
 
 </td>
 </tr>
@@ -142,12 +146,10 @@ The grid below is generated every day by [this workflow](https://github.com/Bish
 
 <a href="mailto:bishoymamdouh20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/bishoymamdouhk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="YOUR_WHATSAPP_URL"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://wa.me/201212422301"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://bishomamdouh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-<br/><br/>
-
-*Checked models. Useful systems.*
+<br/>
 
 </div>
 
