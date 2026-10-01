@@ -141,7 +141,6 @@ I build and check machine learning systems: language models, computer vision, an
 
 ### Contribution snake
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BishoyMK/BishoyMK/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BishoyMK/BishoyMK/output/github-contribution-grid-snake.svg" />
@@ -162,7 +161,6 @@ I build and check machine learning systems: language models, computer vision, an
 <a href="https://bishomamdouh.vercel.app"><img src="assets/logo.png" height="36" alt="Bishoy Mamdouh" /></a>
 <a href="https://bishomamdouh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge" alt="Portfolio" /></a>
 
-<br/>
 
 </div>
 
