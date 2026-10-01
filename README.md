@@ -110,7 +110,7 @@ I build and check machine learning systems: language models, computer vision, an
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BishoyMK&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=-C,-?" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=BishoyMK&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Trophies" />
 
 <br/><br/>
 
