@@ -45,14 +45,10 @@ I build and check machine learning systems: language models, computer vision, an
 <img src="https://img.shields.io/badge/RAG-1e40af?style=flat-square" alt="RAG" />
 <img src="https://img.shields.io/badge/Model%20Quality-0369a1?style=flat-square" alt="Model Quality" />
 
-<br/><br/>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="A man working at a computer" />
-
 </td>
 <td width="42%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Animated neural network: signals moving through an AI model." />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Animated AI brain with moving digital circuits." />
 
 </td>
 </tr>
