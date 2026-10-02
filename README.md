@@ -8,11 +8,10 @@
 
 
 <!-- <a href="https://bishomamdouh.vercel.app"><img src="assets/logo.png" height="36" alt="Bishoy Mamdouh" /></a> -->
-<a href="https://bishomamdouh.vercel.app">
-  <img src="assets/logo.png" height="32" alt="Portfolio Logo" />
-  <img src="https://img.shields.io/badge/Portfolio-7F1D1D?style=for-the-badge" alt="Portfolio" />
+<a href="https://bishomamdouh.vercel.app" style="display:inline-flex;align-items:center;background:#7F1D1D;border-radius:6px;padding:6px 12px;text-decoration:none;">
+  <img src="assets/logo.png" height="24" alt="Logo" style="background:#7F1D1D;border-radius:4px;margin-right:8px;" />
+  <span style="color:white;font-weight:600;font-size:14px;">Portfolio</span>
 </a>
-
 <a href="https://github.com/BishoyMK"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=93c5fd" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/bishoymamdouhk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
