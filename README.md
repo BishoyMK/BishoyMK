@@ -61,7 +61,7 @@ systems and data-driven dashboards.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn,pytorch,c,cpp,aws,azure,react,supabase,mysql,postman,prisma,anaconda,docker,electron,flask,git,github,linkedin,javascript,html,css,react,nodejs,npm,vercel,notion,visualstudio,&perline=7" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,sklearn,pytorch,c,cpp,aws,azure,supabase,mysql,postman,prisma,anaconda,docker,electron,git,github,linkedin,javascript,html,css,react,nodejs,npm,vercel,notion,visualstudio,&perline=7" alt="My Skills" />
 
 </div>
 
