@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1e3a8a,100:38bdf8&height=180&section=header&text=Bishoy%20Mamdouh&fontSize=45&fontColor=f8fafc&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20%C2%B7%20Model%20Quality&descSize=18&descAlignY=62&descColor=93c5fd&animation=fadeIn" alt="Bishoy Mamdouh" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0b2f6f,50:1d4ed8,75:2563eb,100:60a5fa&height=260&section=header&text=Bishoy%20Mamdouh&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Machine%20Learning%20%7C%20LLMs&descSize=19&descAlignY=60&descColor=e0f2fe&animation=fadeIn" alt="Bishoy Mamdouh" />
 
 <img src="assets/logo.png" width="200" alt="Bishoy Mamdouh logo" />
 
