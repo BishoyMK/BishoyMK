@@ -59,7 +59,11 @@ systems and data-driven dashboards.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn,huggingface,azure,pandas,numpy,mysql,docker,flask,git,github&perline=7" alt="Skill icons" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn,huggingface,azure,pandas,numpy,mysql,docker,flask,git,github,javascript,html,css,react,nodejs&perline=7" alt="My Skills" />
+
+</div>
 
 <br/><br/>
 
