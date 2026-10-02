@@ -161,7 +161,7 @@ systems and data-driven dashboards.
 <a href="https://www.linkedin.com/in/bishoymamdouhk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://wa.me/201212422301"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://bishomamdouh.vercel.app"><img src="assets/logo.png" height="36" alt="Bishoy Mamdouh" /></a>
-<a href="https://bishomamdouh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge" alt="Portfolio" /></a>
+<!--<a href="https://bishomamdouh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge" alt="Portfolio" /></a> -->
 
 
 </div>
