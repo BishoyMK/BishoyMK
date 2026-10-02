@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-1e3a8a?style=for-the-badge" alt="AI and Data Science" />
 
-<br/>
+<br/><br/>
 
 AI and Data Science graduate combining hands-on Machine Learning, Deep Learning, NLP, and Computer Vision experience with strong data analysis 
 skills. Skilled in building end-to-end solutions using Python, TensorFlow, PyTorch, OpenCV, RAG/LangChain, and Transformer-based models, as well as 
