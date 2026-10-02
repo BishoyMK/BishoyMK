@@ -8,7 +8,9 @@
 
 
 <!-- <a href="https://bishomamdouh.vercel.app"><img src="assets/logo.png" height="36" alt="Bishoy Mamdouh" /></a> -->
-<a href="https://bishomamdouh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://bishomamdouh.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio" />
+</a>
 <a href="https://github.com/BishoyMK"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=93c5fd" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/bishoymamdouhk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
