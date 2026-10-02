@@ -27,14 +27,14 @@
 
 <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-1e3a8a?style=for-the-badge" alt="AI and Data Science" />
 
-<br/><br/>
+<br/>
 
 AI and Data Science graduate combining hands-on Machine Learning, Deep Learning, NLP, and Computer Vision experience with strong data analysis 
 skills. Skilled in building end-to-end solutions using Python, TensorFlow, PyTorch, OpenCV, RAG/LangChain, and Transformer-based models, as well as 
 extracting, cleaning, and analyzing structured datasets with Pandas, scikit-learn, Excel, SQL, and Power BI. Proven track record delivering real-world AI 
 systems and data-driven dashboards.
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Alexandria%2C%20Egypt-0f172a?style=flat-square" alt="Alexandria" />
 <img src="https://img.shields.io/badge/LLMs-1d4ed8?style=flat-square" alt="LLMs" />
