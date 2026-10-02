@@ -26,7 +26,10 @@
 
 <br/><br/>
 
-I build and check machine learning systems: language models, computer vision, and data work that has to hold up in practice.
+AI and Data Science graduate combining hands-on Machine Learning, Deep Learning, NLP, and Computer Vision experience with strong data analysis 
+skills. Skilled in building end-to-end solutions using Python, TensorFlow, PyTorch, OpenCV, RAG/LangChain, and Transformer-based models, as well as 
+extracting, cleaning, and analyzing structured datasets with Pandas, scikit-learn, Excel, SQL, and Power BI. Proven track record delivering real-world AI 
+systems and data-driven dashboards.
 
 <br/><br/>
 
@@ -39,7 +42,7 @@ I build and check machine learning systems: language models, computer vision, an
 </td>
 <td width="42%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="A man working deep in code." />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR6MTBmbGs5Z3BlOXJlZzNhZ21ibW8yeXlmM3ptdzNtNHpmMHUzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="A man working deep in code." />
 
 </td>
 </tr>
